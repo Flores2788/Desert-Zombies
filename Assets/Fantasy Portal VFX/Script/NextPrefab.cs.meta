@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bdedce6c5de13b343869322c8fadcd90
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295459
+  packageName: Fantasy Portal VFX
+  packageVersion: 1.0
+  assetPath: Assets/Fantasy Portal VFX/Script/NextPrefab.cs
+  uploadId: 692074

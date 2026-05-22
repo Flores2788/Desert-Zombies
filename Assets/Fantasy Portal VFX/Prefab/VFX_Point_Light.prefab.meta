@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5716ae4ea4c04b468d813812d8144f4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295459
+  packageName: Fantasy Portal VFX
+  packageVersion: 1.0
+  assetPath: Assets/Fantasy Portal VFX/Prefab/VFX_Point_Light.prefab
+  uploadId: 692074

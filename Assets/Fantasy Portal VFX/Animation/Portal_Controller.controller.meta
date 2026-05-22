@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c2b869c39b661004bac0cf99d9a2830f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295459
+  packageName: Fantasy Portal VFX
+  packageVersion: 1.0
+  assetPath: Assets/Fantasy Portal VFX/Animation/Portal_Controller.controller
+  uploadId: 692074

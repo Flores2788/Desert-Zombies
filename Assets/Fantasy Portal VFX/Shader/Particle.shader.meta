@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 077273752bc128443890c07e37e42ff2
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295459
+  packageName: Fantasy Portal VFX
+  packageVersion: 1.0
+  assetPath: Assets/Fantasy Portal VFX/Shader/Particle.shader
+  uploadId: 692074

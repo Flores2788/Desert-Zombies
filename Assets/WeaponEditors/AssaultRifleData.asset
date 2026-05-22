@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 730799e24ac43984588ae828beef80a1, type: 3}
+  m_Name: AssaultRifleData
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: Assault Rifle
+  damage: 25
+  range: 120
+  automatic: 1
+  fireRate: 0.08
+  pelletsPerShot: 1
+  magazineSize: 30
+  startingReserveAmmo: 120
+  reloadTime: 1.8
+  hipSpread: 2.5
+  adsSpread: 0.2
+  shotSound: {fileID: 8300000, guid: 514779b78b9fc6a40aad95ee3014011c, type: 3}
+  shotVolume: 0.2
+  shotPitchRange: {x: 0.95, y: 1.05}
+  reloadSound: {fileID: 8300000, guid: 2423b57ed92c976488d6a0e98618fbac, type: 3}
+  reloadVolume: 0.5
+  viewModelPrefab: {fileID: 8347351270762120645, guid: b82a9f69eefd32c43915e1b50ff33eff, type: 3}
+  recoilPositionKick: {x: 0, y: 0.005, z: -0.035}
+  recoilRotationKick: {x: -1.5, y: 0.3, z: 0}
+  recoilSnappiness: 30
+  recoilReturnSpeed: 15
+  recoilRandomness: 0.5
+  muzzleFlashPrefab: {fileID: 7990359590174281885, guid: 9a641fc6030c6df47bd2b7039659a31d, type: 3}
+  muzzleFlashLifetime: 0.05
+  muzzleFlashScale: 1
